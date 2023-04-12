@@ -737,7 +737,7 @@ that have popups, or else the menu breaks when you hover over them */
 }
 
 [id^="status-picker-"] /* status picker (who would've guessed?) */ {
-	background-color: #009393 !important;
+	background-color: transparent !important;
 }
 
 .button-f2h6uQ:not(.lookBlank-21BCro):not(.lookLink-15mFoz):not(.lookOutlined-3yKVGo):not(.lookInverted-2mDUMi):not(.lookFilled-yCfaCM):not(.colorRed-rQXKgM):not(.colorWhite-1H92hK):hover, /* buttons hovered over */
@@ -754,14 +754,14 @@ that have popups, or else the menu breaks when you hover over them */
 
 	/* Profile Popout */
 .root-SR8cQa {
-	background-color: #009393;
+	background-color: transparent;
 	backdrop-filter: var(--blurcalc-popout);
 }
 
 .headerNormal-1mX3KY,
 .body-2wLx-E,
 .bodyInnerWrapper-2bQs1k {
-	background-color: #009393;
+	background-color: transparent;
 }
 
 .headerTop-2cWpdB {
@@ -796,7 +796,7 @@ that have popups, or else the menu breaks when you hover over them */
 	border-width: 8px;
 	border-style: solid;
 	border-color: #009393;
-	background-color: #009393;
+	background-color: transparent;
 }
 
 .avatarWrapper-eenWra:before, .avatar-3QF_VA:before {
@@ -1036,7 +1036,7 @@ padding: var(--dplus-spacing-ui);
 .messageGroupWrapper-1jf_7C {
 	border-radius: var(--dplus-radius-ui);
 	min-height: 70px;
-	background: #009393;
+	background: transparent;
 }
 .messageGroupWrapper-1jf_7C .cozy-VmLDNB.wrapper-30-Nkg {
 	padding-top: var(--dplus-spacing-ui);
@@ -1055,7 +1055,7 @@ padding: var(--dplus-spacing-ui);
 
 
 /* Inbox */
-.container-2ebMPP {background-color: #009393;}
+.container-2ebMPP {background-color: transparent;}
 
 
 /* Autocomplete */
@@ -1068,7 +1068,7 @@ padding: var(--dplus-spacing-ui);
 
 /* Emoji/GIF/Sticker Picker */
 .result-3OpoO7, .wrapper-1NNaWG {
-    background-color: #009393 !important;
+    background-color: transparent !important;
     border-radius: var(--dplus-radius-ui);
 }
 #app-mount .focused-q9B2e4:after, .theme-dark .result-3OpoO7:hover:after {
