@@ -437,8 +437,8 @@
 
 /* Quick and dirty fix for create a new server in dark mode */
 .theme-dark .layer-1Ixpg3 .theme-light { /* the ones i actually need */
-	--header-primary: #060607;
-	--header-secondary: #4f5660;
+	--header-primary: #002a2a;
+	--header-secondary: #004242;
 	--text-normal: #009393;
 	--interactive-normal: #00ffff;
 }
