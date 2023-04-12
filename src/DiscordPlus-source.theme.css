@@ -368,7 +368,7 @@
 	--background-secondary: var(--dplus-bgc-ui-card) !important;
 	--background-tertiary: var(--dplus-bgc-popout) !important;
 	--background-secondary-alt: hsla(var(--dplus-background-color-hue), calc(var(--dplus-background-color-saturation-factor) * 50%), calc(var(--dplus-background-color-lightness-amount) * var(--dplus-background-color-lightness-150)), calc(var(--dplus-background-color-alpha) * var(--dplus-bgc-ui-card-alpha-modifier, 100%) / 5 * 4)) !important; /* bottom-left account details */
-	--channelbodyarea-background: #009393 !important;
+	--channelbodyarea-background: transparent !important;
 	--background-floating: var(--dplus-bgc-popout) !important;
 	--background-mobile-primary: var(--dplus-bgc-ui-base);
 	--background-mobile-secondary: var(--dplus-bgc-ui-base);
@@ -453,7 +453,7 @@
 body { background-color: var(--dplus-accent-ui); }
 
 .appMount-2yBXZl, .app-2CXKsg, .bg-1QIAus {
-	background-color: #009393;
+	background-color: transparent;
 }
 
 /* Fonts */
